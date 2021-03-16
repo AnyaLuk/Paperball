@@ -1,1 +1,1 @@
-# Paperball
+# CP-2
